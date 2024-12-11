@@ -1,5 +1,4 @@
 <h2 align="left" style="font-size: 45px; text-decoration: underline;">Hi 👋, I'm Kostas, Fullstack Web Developer currently diving into Python and machine learning</h2>
-<br/>
 
 - 🌱 I’m currently learning **Python, machine learning and data analysis**
 
