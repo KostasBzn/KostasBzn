@@ -59,7 +59,7 @@
   </a> 
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 0;">
+<p align="center"">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kostasbzn&show_icons=true&locale=en&layout=compact" alt="kostasbzn" width="400" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kostasbzn&show_icons=true&locale=en" alt="kostasbzn" width="400" height="150"/>
 </p>
