@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python, machine learning and data analysis**
 
-- 📫 How to reach me **kostasbouzianis@gmail.com**
+- 📫 How to reach me **kostasbouzianis@gmail.com** or [LinkedIn](https://www.linkedin.com/in/kostas-bouzianis/)
 
 <p align="left">
 </p>
