@@ -1,11 +1,9 @@
 <h2 align="left" style="font-size: 45px; text-decoration: underline;">Hi 👋, I'm Kostas, passionate Fullstack Web Developer & Data Scientist</h2>
 
 - 🌱 I’m currently diving deeper into **Python** and exploring **cybersecurity** concepts like system security and penetration testing.
-  
 - 🔒 Learning about secure coding practices and tools to build robust, secure applications.
-  
-- 💻 Passionate about **Fullstack Web Development** and **Data Science**
-- 📚 Always expanding my knowledge
+- 💻 Passionate about **Fullstack Web Development** and **Data Science**.
+- 📚 Always expanding my knowledge.
 - 📫 How to reach me: **kostasbouzianis@gmail.com** or [LinkedIn](https://www.linkedin.com/in/kostas-bouzianis/).
 
 <p align="left">
