@@ -1,4 +1,4 @@
-<h2 align="left" style="font-size: 45px; text-decoration: underline;">Hi 👋, I'm Kostas, a Fullstack Developer & Data Science enthusiast</h2>
+<h2 align="left" style="font-size: 45px; text-decoration: underline;">Hi, I'm Kostas, a Fullstack Developer & Data Science enthusiast</h2>
 
 - I'm currently working on personal projects in C# and Python.
 - Always improving my skills in C#, Python and JavaScript.
